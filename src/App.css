@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+.movies{
+  display: flex;
+  flex-wrap: wrap;
+}
